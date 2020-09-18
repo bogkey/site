@@ -1,8 +1,8 @@
-### Whoami
+# Whoami
 
 I am Harrison Liu, a M.Sc (CS) student at the Univerist of Melbourne. My main area of interest is typically cross discplinary and tend to involve Mathematicts, Electrical Engineering and bits and pieces of Biology in addition to CS. I expect to begin my research project around 2021
 
-### Notable Projects
+# Notable Projects
 ## Coursework
 1. Multiple Sequence Alignemnt via MPI and Striped Iterate Smith Waterman
 2. Goat, a compiler
