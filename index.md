@@ -8,8 +8,10 @@ I am Harrison Liu, a M.Sc (CS) student at the Univerist of Melbourne. My main ar
 2. Goat, a compiler
 3. Bitbox, a P2P filesharing system
 4. (Ongoing) Flutter App
+
 ## Student Projects
 1. Autonomous Rover Project
+
 ## Personal Projects 
 1. Spiking Neural Network Simulator (LIF) in C
 2. Very Basic RISC-V CPU
