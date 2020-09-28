@@ -4,18 +4,18 @@ I am Harrison Liu, a M.Sc (CS) student at the Univerist of Melbourne. My main ar
 
 # Notable Projects
 ## Coursework
-1. Multiple Sequence Alignemnt via MPI and Striped Iterate Smith Waterman
-2. Goat, a compiler
-3. Bitbox, a P2P filesharing system
-4. (Ongoing) Flutter App
+* Multiple Sequence Alignemnt via MPI and Striped Iterate Smith Waterman
+* Goat, a compiler
+* Bitbox, a P2P filesharing system
+* A Flutter Quiz App
 
 ## Student Projects
-Autonomous Rover Project
+* Autonomous Rover Project
 
 ## Personal Projects 
-1. Spiking Neural Network Simulator (LIF) in C
-2. Very Basic RISC-V CPU
-3. (Ongoing) A basic Exo-Kernel based on older UNIX.  
+*  Spiking Neural Network Simulator (LIF) in C
+*  Very Basic RISC-V CPU
+*  [Onhold] A basic Exo-Kernel based on older UNIX.  
 
 
 ### Contact
